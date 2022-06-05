@@ -3,13 +3,21 @@
 
 Citi Bike is the nation's largest bike share program, with apporx 27,350 bikes and over 1,549 stations across Manhattan, Brooklyn, Queens etc. Based on the experience in New York city, an investor is ready to invest in Kate's idea to open a similar bike business in the of city of Des Moines.
 For this purpose Kate analyze the New York city bike share data and presents following reports -
-* 
+1) [Convert the Tripduration](#1-_Convert_the_Tripduration)
+2) Gender wise Bike rider breakdown
+3) Bike Utilization
+4) Starting and Ending Location
+5) Checkout times for User
+6) Checkout times by Gender
+7) Trips per weekday per Hour
+8) Trips by gender and Weekday per hour
+9) Trips by Weekday and gender
 
 ## Results
 A complete Story board have been generated in Tabuleau to walkthrough the details of analysis [Click Here](https://public.tableau.com/views/BikeSharingWorkbook/BikeSharingStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 To analyze the data the following steps have been followed
-### 1) Convert the Tripduration 
+### 1- Convert the Tripduration 
 Tripduration format in the given data file was in Numeric datatype. Inorder to covert the Numeric datatype to Datetime datatype we wrote code in Pandas.
 Code file - [Jupyter Notebook File](NYC_CitiBike_Challenge.ipynb)
 
@@ -21,7 +29,7 @@ Below image shows comparison of the data format change
 Overall Data after the converted Tripduration
 <p align="center"> <img src="Images/tripduration_aftermodification.png"  align="center" height="400" width="1000"></p>
 
-### 2) Gender wise Bike rider breakdown
+### 2- Gender wise Bike rider breakdown
 We can see from the below data that there are more Male bikers
 <p align="center"> <img src="Images/Gender_Breakdown_percentage.jpg.png"  align="center" height="400" width="1000"></p>
 
