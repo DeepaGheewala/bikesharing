@@ -3,7 +3,7 @@
 
 Citi Bike is the nation's largest bike share program, with apporx 27,350 bikes and over 1,549 stations across Manhattan, Brooklyn, Queens etc. Based on the experience in New York city, an investor is ready to invest in Kate's idea to open a similar bike business in the of city of Des Moines.
 For this purpose Kate analyze the New York city bike share data and presents following reports -
-1) [Convert the Tripduration](#Convert_the_Tripduration)
+1) [Convert the Tripduration](#1.-Convert-the-Tripduration)
 2) Gender wise Bike rider breakdown
 3) Bike Utilization
 4) Starting and Ending Location
@@ -17,7 +17,7 @@ For this purpose Kate analyze the New York city bike share data and presents fol
 A complete Story board have been generated in Tabuleau to walkthrough the details of analysis [Click Here](https://public.tableau.com/views/BikeSharingWorkbook/BikeSharingStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 To analyze the data the following steps have been followed
-### Convert the Tripduration 
+### 1. Convert the Tripduration 
 Tripduration format in the given data file was in Numeric datatype. Inorder to covert the Numeric datatype to Datetime datatype we wrote code in Pandas.
 Code file - [Jupyter Notebook File](NYC_CitiBike_Challenge.ipynb)
 
