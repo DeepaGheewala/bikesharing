@@ -6,7 +6,7 @@ For this purpose Kate analyze the New York city bike share data and presents fol
 * 
 
 ## Results
-A complete Story board have been generated in Tabuleau to walkthrough the details of analysis [Click Here](https://public.tableau.com/shared/KJD4TH2XN?:display_count=n&:origin=viz_share_link)
+A complete Story board have been generated in Tabuleau to walkthrough the details of analysis [Click Here](https://public.tableau.com/views/BikeSharingWorkbook/BikeSharingStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 To analyze the data the following steps have been followed
 ### 1) Convert the Tripduration 
